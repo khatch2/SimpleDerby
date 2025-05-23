@@ -12,10 +12,13 @@ public class SimpleDerbyApp {
             // Connenct to database (create if not exists)
             conn = DriverManager.getConnection(DB_URL);
             System.out.println("Connected to database");
+
             // Create table
             createTable(conn);
+
             // Insert data
             insertData(conn);
+
             // Query data
             queryData(conn);
         } catch (ClassNotFoundException | SQLException e) {
@@ -39,15 +42,15 @@ public class SimpleDerbyApp {
         }
     }
 
-    private static void queryData(Connection conn) {
-        
-    }
-
-    private static void insertData(Connection conn) {
+    private static void queryData(Connection conn) throws SQLException {
 
     }
 
-    private static void createTable(Connection conn) {
+    private static void insertData(Connection conn) throws SQLException {
+
+    }
+
+    private static void createTable(Connection conn) throws SQLException {
 
     }
 }
