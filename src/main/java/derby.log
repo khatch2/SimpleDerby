@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Fri May 23 19:59:42 CEST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0196-fe4d-014e-0000078791d8 
+on database directory C:\Users\KhatchShah\IdeaProjects\SimpleDerby\src\main\java\myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+Loaded from file:/C:/Users/KhatchShah/IdeaProjects/SimpleDerby/derby/db-derby-10.16.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.7+8-LTS-245
+user.dir=C:\Users\KhatchShah\IdeaProjects\SimpleDerby\src\main\java
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 23 19:59:44 CEST 2025: Shutting down Derby engine
+----------------------------------------------------------------
+Fri May 23 19:59:45 CEST 2025:
+Shutting down instance a816c00e-0196-fe4d-014e-0000078791d8 on database directory C:\Users\KhatchShah\IdeaProjects\SimpleDerby\src\main\java\myDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+----------------------------------------------------------------
