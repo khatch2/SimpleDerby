@@ -8,7 +8,7 @@ public class SimpleDerbyApp {
         Connection conn = null;
         try {
             // Load Derby embedded server
-            Class.forName("org.apache.derby.jdbc.EmbeddedDriver");
+            Class.forName("org.apache.derby.iapi.jdbc.AutoloadedDriver");
             // Connenct to database (create if not exists)
             conn = DriverManager.getConnection(DB_URL);
             System.out.println("Connected to database");
